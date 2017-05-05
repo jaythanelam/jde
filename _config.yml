@@ -1,0 +1,40 @@
+---
+title: Jaythan Elam
+timezone: UTC
+collections:
+  journal:
+    title: Journal
+    output: true
+    permalink: "/journal/:path/"
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+  work:
+    title: Work
+    output: false
+defaults:
+- scope:
+    path: ''
+    type: journal
+  values:
+    author: Jaythan Elam
+    layout: journal
+email: jaythan@jointley.com
+twitter: http://twitter.com/jaythan
+dribbble: http://dribbble.com/jaythan
+linkedin: https://www.linkedin.com/in/jaythan/
+github: http://github.com/jaythanelam
+copyright: All work is copyright Jaythan Elam unless otherwise mentioned.
+post_dirs: false
+ga: UA-22938148-6
+host:
+port: 4444
+sass:
+  style: compressed
+redcarpet:
+  extensions:
+  - smart
+  - superscript
