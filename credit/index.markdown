@@ -18,7 +18,8 @@ technical:
   and [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono)
 - Nav Show/Hide learned from [here](https://medium.com/@mariusc23/hide-header-on-scroll-down-show-on-scroll-up-67bbaae9a78c#.l6t9zfowf)
 other:
-- I cloned this site design from John Choura Jr. in order to give myself a headstart on my site redesign.
+- I cloned this site design from John Choura Jr. in order to give myself a headstart
+  on my site redesign.
 - I like to write reflections and life notes in my Journal, even if no one reads them.
 - "Some of the Gif's on the homepage aren't made by me, I just like them \U0001F642."
 - "Lastly, special shoutout to emoji's, I even used them when writing some code \U0001F918."
