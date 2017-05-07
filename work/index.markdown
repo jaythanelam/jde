@@ -4,21 +4,21 @@ header: white
 weight: 2
 headline: Work
 clients:
-- name: Joy (Coming Soon)
+- name: Cook ai
   role: Product Design Lead
-  link: http://findjoy.com/
+  link: https://cook.ai/
   year: 2017
-- name: Arcade Coffee Roasters
-  role: Contract Brand/Identity Design
-  link: http://arcadecoffeeroasters.com
+- name: Razor
+  role: Brand Designer
+  link: https://github.com/carbonfive/razor
   year: 2017
-- name: Steelhead Coffee
-  role: Contract Graphic Designer
-  link: http://steelheadcoffee.com/
+- name: Are you a sandwich?
+  role: Pro bono/fun
+  link: http://areyouasandwich.com/
   year: 2016
-- name: Grand Food & Beverage
-  role: Creative/Tech Director
-  link: http://grandfandb.com
+- name: CodeXX
+  role: Contract Brand/Marketing
+  link: https://www.meetup.com/CodeXX/
   year: 2016
 - name: Amazing Grass
   role: Logo/Packaging Design
@@ -40,9 +40,6 @@ clients:
   role: Designer
   link: http://biola.edu
   year: 2014
-projects:
-- name: So. Cal. Craft Coffee
-  link: http://socal.coffee
 layout: default
 ---
 
@@ -79,9 +76,9 @@ layout: default
 </section>
 
 <script type="text/javascript">
-  $.jribbble.setToken('ddb8861ee535f012c39ce85126a6e6987b245585883bb591390360f48def34d7');
+  $.jribbble.setToken('edb536adf0118d406d24bd93635da4e5ffe43425d7c5376797d8dbd32d2ccda2');
 
-  $.jribbble.users('johnchourajr').shots({per_page: 14}).then(function(shots) {
+  $.jribbble.users('jaythan').shots({per_page: 14}).then(function(shots) {
     var html = [];
 
     shots.forEach(function(shot) {
