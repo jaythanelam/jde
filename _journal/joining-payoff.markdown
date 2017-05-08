@@ -1,9 +1,10 @@
 ---
 title: Joining Payoff
 date: 2015-08-05 06:44:00 Z
+published: false
 position: 4
-layout: journal-payoff
 refer: 1 Some of the original JS logic goes to [this Codepen](http://codepen.io/Bergability/pen/EjRRXx).
+layout: journal-payoff
 ---
 
 I'm excited to announce that next week I'll be joining [Payoff](https://www.payoff.com/) as a Product Designer. I'll be working with [Josh Hemsley](https://twitter.com/joshhemsley) and the Payoff team to build out their brand, and mobile products, and ultimately reenvision the world of personal finance. With this new move it will be difficult to leave my friends and teammates at Envoy, a group of some of the most talented and quality human beings that I've had the pleasure to work with. But, times change, and I couldn't be more excited.
