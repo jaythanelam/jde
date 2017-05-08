@@ -30,7 +30,7 @@ github: http://github.com/jaythanelam
 copyright: All work is copyright Jaythan Elam unless otherwise mentioned.
 post_dirs: false
 ga: UA-36981025-1
-host: 
+host:
 port: 4444
 sass:
   style: compressed
@@ -38,3 +38,4 @@ redcarpet:
   extensions:
   - smart
   - superscript
+markdown: kramdown
