@@ -1,6 +1,7 @@
 ---
 title: SF Trip
 date: 2014-04-21 20:11:00 Z
+published: false
 position: 1
 cover: 02-SF-poster.jpg
 refer: |-
