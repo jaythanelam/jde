@@ -1,6 +1,7 @@
 ---
 title: Back to School
 date: 2017-01-23 17:12:00 Z
+published: false
 cover: to-teach-3.gif
 Tags:
 - Life
