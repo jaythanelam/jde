@@ -7,7 +7,7 @@ contact: mailto:jaythan@jointley.com?Subject=Hello%21&Body=Was%20looking%20at%20
 ---
 
 <div class="txt-big"></div>
-<section class="slide page-header xs-mt6 xs-pt6 vh_90 display-flex align-items-center" data-background="rgb(238, 238, 238)">
+<section class="slide page-header xs-mt6 xs-pt6 vh_90 display-flex align-items-center" data-background="rgb(255, 215, 211)">
   <div class="page-header--upper inline-table wrapper xs-pb6">
       <div class="col md-col-12">
         <h1 class="display-1 text-black">
@@ -23,7 +23,7 @@ contact: mailto:jaythan@jointley.com?Subject=Hello%21&Body=Was%20looking%20at%20
       </div>
   </div>
 </section>
-<section class="slide page-header vh_90 display-flex align-items-center" data-background="rgba(255,254,236,1)">
+<section class="slide page-header vh_90 display-flex align-items-center" data-background="rgb(229, 229, 227)">
   <div class="page-header--upper inline-table wrapper xs-pb6">
       <div class="col md-col-12">
         <h1 class="display-1 text-black">Say <a href="{{ page.contact }}" class="txt" data-txt="👋">Hello</a>, or follow me on <a href="{{ site.twitter }}" class="txt" data-txt="twitter">Twitter</a>, <a href="{{ site.dribbble }}" class="txt" data-txt="dribbble">Dribbble</a>, <a href="{{ site.linkedin }}" class="txt" data-txt="linkedin">Linkedin</a>, and <a href="{{ site.github }}" class="txt" data-txt="github">Github</a>.</h1>
