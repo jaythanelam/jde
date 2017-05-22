@@ -11,7 +11,7 @@ contact: mailto:jaythan@jointley.com?Subject=Hello%21&Body=Was%20looking%20at%20
   <div class="page-header--upper inline-table wrapper xs-pb6">
       <div class="col md-col-12">
         <h1 class="display-1 text-black">
-          Jaythan Elam is a <a href="#" class="txt" data-txt="😁">Designer</a>, <a href="#" class="txt" data-txt="😬">Product Maker</a>, and <a href="#" class="txt" data-txt="☕️">Father of Four</a> in <a href="#" class="txt" data-txt="☀️">Chattanooga</a>, Tennessee.
+          Jaythan Elam is a <a href="#" class="txt" data-txt="😁">Designer</a>, <a href="#" class="txt" data-txt="😵">Product Maker</a>, and <a href="#" class="txt" data-txt="☕️">Father of Four</a> in <a href="#" class="txt" data-txt="☀️">Chattanooga</a>, Tennessee.
         </h1>
       </div>
   </div>

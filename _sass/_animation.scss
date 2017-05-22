@@ -24,8 +24,8 @@ a {
 // 😁 Designer
 // 😬 Developer
 // 😵 Maker
-// ☕️ Coffee
-// ☀️ Long Beach
+// ☕️ father
+// ☀️ letterpress
 
 @mixin home-hover($name, $colorbkg, $color, $img, $blend) {
   body.#{$name}, body.#{$name} .doc {background-color: $colorbkg !important; color: $color !important;}
@@ -34,11 +34,11 @@ a {
   .txt-big.#{$name} {opacity: 1; height: 100vh; background-image: url('/img/home/#{$img}.gif'); mix-blend-mode: $blend;}
 }
 
-@include home-hover(😁, #00ff12, black, design, screen);
+@include home-hover(😁, #C8D400, black, design, multiply);
 @include home-hover(😬, black, #00ff12, dev, screen);
-@include home-hover(😵, red, white, maker, screen);
-@include home-hover(☕️, blue, aqua, coffee, screen);
-@include home-hover(☀️, white, yellow, lbc, multiply);
+@include home-hover(😵, yellow, white, maker, multiply);
+@include home-hover(☕️, blue, aqua, father, screen);
+@include home-hover(☀️, white, yellow, letterpress, multiply);
 
 @include home-hover(👋, black, white, foo, none);
 @include home-hover(twitter, white, $text-twitter, foo, none);
