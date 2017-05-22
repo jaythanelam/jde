@@ -7,4 +7,3 @@ tags:
 ---
 
 Well hello there! I hope to be doing a bit more of this in the coming days, although at the moment, this post will have to suffice.
-![xs](/journal/uploads/to-teach-3.gif)
