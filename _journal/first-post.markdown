@@ -9,4 +9,4 @@ tags:
 Well hello there! I hope to be doing a bit more of this in the coming days, although at the moment, this post will have to suffice.
 
 Currently still working through bugs with the system.
-/uploads/bugs.gif
+![lg](/journal/uploads/bugs.gif)
