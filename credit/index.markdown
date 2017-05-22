@@ -18,8 +18,9 @@ technical:
 - Gifs made using [Giphy](http://giphy.com)
 other:
 - Thank you Andrew for pushing to learn Jekyll.
-- I hope to write more than just one post in the journal, but who really knows. I'd certainly hope too.
--
+- I hope to write more than just one post in the journal, but who really knows. I'd
+  certainly hope too.
+- 
 layout: default
 ---
 

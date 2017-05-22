@@ -29,7 +29,7 @@ clients:
   link: http://tailw.ag
   year: 2016
 - name: Unionize
-  role: 'Brand Designer'
+  role: Brand Designer
   link: https://unionize.me/
   year: 2016
 - name: Bubbl
