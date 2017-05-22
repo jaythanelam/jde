@@ -9,4 +9,4 @@ tags:
 Well hello there! I hope to be doing a bit more of this in the coming days, although at the moment, this post will have to suffice.
 
 Currently still working through bugs with the system.
-https://giphy.com/gifs/A1SNSC8s40O64/html5
+/uploads/bugs.gif
