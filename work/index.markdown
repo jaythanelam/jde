@@ -4,15 +4,19 @@ header: white
 weight: 2
 headline: Work
 clients:
+- name: Brother Nature
+  role: Brand/Package Designer
+  link: https://www.wearebrothernature.com
+  year: 2017
 - name: Cook ai
   role: Product Design Lead
   link: https://cook.ai/
   year: 2017
 - name: Razor
   role: Brand Designer
-  link: https://github.com/carbonfive/razor
+  link: https://github.com/carbonfive
   year: 2017
-- name: Are you a sandwich?
+- name: AYaS?
   role: Pro bono/fun
   link: http://areyouasandwich.com/
   year: 2016
@@ -20,25 +24,21 @@ clients:
   role: Contract Brand/Marketing
   link: https://www.meetup.com/CodeXX/
   year: 2016
-- name: Amazing Grass
-  role: Logo/Packaging Design
-  link: http://amazinggrass.com
-  year: 2015
-- name: Vizio
-  role: Product Designer
-  link: http://vizio.com
-  year: 2015
-- name: Kareo
-  role: Art Director
-  link: http://kareo.com
-  year: 2015
-- name: Blossom
-  role: 'Brand Designer '
-  link: http://getblossom.com
-  year: 2015
-- name: Biola University
-  role: Designer
-  link: http://biola.edu
+- name: Tailwag Consulting
+  role: Logo/Interaction Design
+  link: http://tailw.ag
+  year: 2016
+- name: Unionize
+  role: 'Brand Designer'
+  link: https://unionize.me/
+  year: 2016
+- name: Bubbl
+  role: VP of Design
+  link: http://bubbl.me
+  year: 2016
+- name: Aol
+  role: Design Director
+  link: https://discover.aol.com/
   year: 2014
 layout: default
 ---
