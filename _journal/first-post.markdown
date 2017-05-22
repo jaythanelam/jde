@@ -1,6 +1,7 @@
 ---
 title: First Post
 date: 2017-05-22 19:55:00 Z
+position: 0
 Field name: 
 ---
 
