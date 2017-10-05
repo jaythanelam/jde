@@ -19,7 +19,7 @@ contact: mailto:jaythan@jointley.com?Subject=Hello%21&Body=Was%20looking%20at%20
 <section class="slide page-header vh_90 display-flex align-items-center" data-background="rgba(236,255,254,1)">
   <div class="page-header--upper inline-table wrapper xs-pb6">
       <div class="col md-col-12">
-        <h1 class="display-1 text-black">Currently Senior Product Design Lead at Carbon Five. <del>Previously at Bubbl, Aol, and Microsoft.</del></h1>
+        <h1 class="display-1 text-black">Currently Principal Product Design Lead at Carbon Five. <del>Previously at Bubbl, Aol, and Microsoft.</del></h1>
       </div>
   </div>
 </section>
