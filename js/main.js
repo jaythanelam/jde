@@ -100,13 +100,6 @@ $(document).ready(function(){
   $(document).scroll(processScroll);
 });
 
-
-// ---------------
-// Parallax Library
-// ---------------
-let rellax = new Rellax('.el')
-
-
 // ---------------
 // Hover Thang
 // ---------------
